@@ -322,7 +322,8 @@ Note: the one marked as `Live Trading` has reasonable live trading support for a
 - [Jacobian](https://github.com/morluto/jacobian) | `Python`, `MCP`, `CLI` | - Composable mathematics for agent-driven quant research, with exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms.
 - [Lacuna](https://github.com/eyenoticeall/Lacuna) | `Python`, `Rust` | - Engine-agnostic quantitative research validation for leakage, overfitting, robustness, costs, and point-in-time evidence.
 - [quantstats](https://github.com/ranaroussi/quantstats) | `Python` | - Portfolio analytics for quants, written in Python
-
+- [Whale Core](https://sigma-liq.fun/) - Tracks liquidation cascades and volume spikes across Binance Futures with zero latency.
+- 
 ### Indicators
 
 - [TA-Lib](https://ta-lib.org) | `C` | - Perform technical analysis of financial market data
